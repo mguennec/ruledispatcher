@@ -1,0 +1,5 @@
+<dmodule>
+	<test1>testdata1 <em type="em1">em content</em> after</test1>
+	<test2>testdata2</test2>
+	<test3><subdata>testdata3</subdata></test3>
+</dmodule>
